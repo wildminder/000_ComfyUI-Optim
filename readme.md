@@ -29,11 +29,15 @@ This little helper, `000_ComfyUI-Optim`, is here to bring some zen to your Comfy
 
 ## Why "000_"?
 
-This node must be first in line! 
+This node must be the first in line!
 
 ## Installation
 
-1.  Clone this repository to the `ComfyUI/custom_nodes/000_ComfyUI-Optim`.
+Instal via Manager or clone this repository to the `ComfyUI/custom_nodes/000_ComfyUI-Optim`:
+
+```bash
+git clone https://github.com/wildminder/000_ComfyUI-Optim.git ComfyUI/custom_nodes/000_ComfyUI-Optim
+```
 
 ## Configuration (`optimizer-config.json`)
 
