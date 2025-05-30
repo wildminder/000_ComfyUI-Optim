@@ -1,0 +1,9 @@
+{
+  "modules_to_silence": [
+	"ComfyUI_Fill-Nodes"
+  ],
+  "patcher_log_level": "ERROR",
+  "log_suppressed_output": false,
+  "patcher_debug_mode": false,
+  "enable_timm_import_fix": true
+}
