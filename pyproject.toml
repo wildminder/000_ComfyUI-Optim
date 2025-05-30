@@ -1,0 +1,15 @@
+[project]
+name = "000_ComfyUI-Optim"
+description = "ComfyUI startup optimizer and patcher"
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["json", "io"]
+
+[project.urls]
+Repository = "https://github.com/wildminder/000_ComfyUI-Optim"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "wildai"
+DisplayName = "ComfyUI-Optim"
+Icon = ""
