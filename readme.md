@@ -11,7 +11,7 @@
 
 **Tired of your ComfyUI console looking like a rave party of "I'M LOADED!" messages every time it starts? Yeah, me too.**
 
-This little helper, `000_ComfyUI-Optim`, is here to bring some zen to your ComfyUI startup experience. It's like a polite bouncer for your console, gently showing overly chatty custom nodes the "quiet please" sign during their grand entrance.
+`000_ComfyUI-Optim` brings some zen to your ComfyUI startup experience. 
 
 <p align="center">
   <img src="./assets/result.jpg" alt="ComfyUI-Optim results">
